@@ -19,3 +19,5 @@ Each journal's spider's bugs will be documented here:
    So far the program works pretty well. All of the titles until 2001 (which is up to where I decided to scrape for information) are present. The **bugs** are in the links. I've only **managed** to correct the offset by a couple of titles which is a lot compared to the initial offset of at least 20 titles. *Offset* meaning that the title link for title D, corresponds to title A. And title link for title H, corresponds to title D. But this doesn't happen for the first few issues but actually offsetting appears after a few issues of scraping down the line.
    
 **Biotechnology and Bioprocess Engineering**
+   This scrape turned out quite well, ther was not offsetting between titles and links. Article Link corresponds to Article Title.
+   
