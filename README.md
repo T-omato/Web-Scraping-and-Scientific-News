@@ -20,5 +20,5 @@ Each journal's spider's bugs will be documented here:
    
 **Biotechnology and Bioprocess Engineering**
 
-   This scrape turned out quite well, ther was not offsetting between titles and links. Article Link corresponds to Article Title.
+   This scrape turned out quite well, there was no offsetting between titles and links. Article Link corresponds to Article Title.
    
