@@ -23,3 +23,10 @@ Each journal's spider's bugs will be documented here:
    This scrape turned out quite well, there was no offsetting between titles and links. Article Link corresponds to Article Title.
   
 **Physical Biology**
+
+   Physical Biology scraped perfectly
+   
+**Sydowia**
+
+   Sydowia Fungus Journal scraped but there is an offset between titles and links. Links are also incomplete. 
+   
