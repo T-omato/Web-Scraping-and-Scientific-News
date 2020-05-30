@@ -14,19 +14,33 @@ Each program will try to use as few as possible module imports but these will be
 For the moment there will be various spiders for scraping different scientific journals for their titles and their respective links. 
 Each journal's spider's bugs will be documented here:
 
-**Developmental Biology BUGS**
+**Developmental Biology **
 
+   Journal of Developmental Biology. (ELSEVIER)
    So far the program works pretty well. All of the titles until 2001 (which is up to where I decided to scrape for information) are present. The **bugs** are in the links. I've only **managed** to correct the offset by a couple of titles which is a lot compared to the initial offset of at least 20 titles. *Offset* meaning that the title link for title D, corresponds to title A. And title link for title H, corresponds to title D. But this doesn't happen for the first few issues but actually offsetting appears after a few issues of scraping down the line.
    
 **Biotechnology and Bioprocess Engineering**
 
+   *The Korean Society for Biotechnology and Bioengineering and Springer-Verlag GmbH Germany, part of Springer Nature*
    This scrape turned out quite well, there was no offsetting between titles and links. Article Link corresponds to Article Title.
   
 **Physical Biology**
 
-   Physical Biology scraped perfectly
+   Official Journal of *Sociedad de Biofísicos Latino Americanos*. Physical Biology scraped perfectly
    
 **Sydowia**
 
-   Sydowia Fungus Journal scraped but there is an offset between titles and links. Links are also incomplete. 
+   An international Journal of Mycology. Sydowia Fungus Journal scraped but there is an offset between titles and links. Links are also incomplete. 
+   
+**Immunity**
+
+   Journal of Cell *Immunity*. Parses perfectly and extracts full link text files plus article's title.
+   
+**Ecology**
+
+   Journal of Ecological Society of America. Scrapes perfectly all titles and there respective DOIs.
+   
+**Forest Sciences**
+
+   Journal of Forest and Environmental Science. Undergoing scraping
    
