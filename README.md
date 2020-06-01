@@ -44,3 +44,26 @@ Each journal's spider's bugs will be documented here:
 
    Journal of Forest and Environmental Science. Undergoing scraping
    
+**Biophysical Reviews**
+
+   Journal of Biophysical Reviews (BiophyRev). Scrapes perfectly all titles and there respective DOIs.
+   
+**Theoritical and Applied Genetics**
+
+   Journals of Theoritical and Applied Genetics (Genetics). Scrapes perfectly all titles and there respective DOIs.
+   
+**Meterials Science**
+
+   Journal of Materials Science (MatSci). Scrapes perfectly all titles and there respective DOIs.
+   
+**Chronobiology**
+
+   Journal of Chronobiology. Scrapes perfectly all titles and there respective DOIs.
+   
+**Critical Reviews in Biotechnology**
+
+   From the Journal of Critical Reviews in Biotechnology (CRinBiotech). Scrapes perfectly all titles and there respective DOIs.
+   
+**Journal of Applied Statistics**
+
+   Journal of Applied Statistics. Scrapes perfectly all titles and there respective DOIs.
