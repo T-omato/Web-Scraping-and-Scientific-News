@@ -1,0 +1,632 @@
+{
+
+"A survey of visualization tools for biological network analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-12",
+
+"Fast Gene Ontology based clustering for microarray experiments": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-11",
+
+"Multivariate profiling of neurodegeneration-associated changes in a subcellular compartment of neurons via image processing": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-10",
+
+"Fast approximate hierarchical clustering using similarity heuristics": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-9",
+
+"Mining tissue specificity, gene connectivity and disease association to reveal a set of genes that modify the action of disease causing genes": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-8",
+
+"Search extension transforms Wiki into a relational system: A case for flavonoid metabolite database": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-7",
+
+"A review of estimation of distribution algorithms in bioinformatics": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-6",
+
+"Clustering-based approaches to SAGE data mining": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-5",
+
+"Uncovering mechanisms of transcriptional regulations by systematic mining of cis regulatory elements with gene expression profiles": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-4",
+
+"Neural networks for genetic epidemiology: past, present, and future": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-3",
+
+"Modeling gene-by-environment interaction in comorbid depression with alcohol use disorders via an integrated bioinformatics approach": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-2",
+
+"Filling the gap between biology and computer science": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-1",
+
+"A biclustering algorithm based on a Bicluster Enumeration Tree: application to DNA microarray data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-9",
+
+"3PFDB - A database of Best Representative PSSM Profiles (BRPs) of Protein Families generated using a novel data mining approach": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-8",
+
+"LD-Spline: Mapping SNPs on genotyping platforms to genomic regions using patterns of linkage disequilibrium": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-7",
+
+"Extraction of pure components from overlapped signals in gas chromatography-mass spectrometry (GC-MS)": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-6",
+
+"Spatially Uniform ReliefF (SURF) for computationally-efficient filtering of gene-gene interactions": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-5",
+
+"Statistical quality assessment and outlier detection for liquid chromatography-mass spectrometry experiments": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-4",
+
+"Partitioning clustering algorithms for protein sequence data sets": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-3",
+
+"Multifactor dimensionality reduction analysis identifies specific nucleotide patterns promoting genetic polymorphisms": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-2",
+
+"Database mining for selection of SNP markers useful in admixture mapping": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-1",
+
+"An extended data mining method for identifying differentially expressed assay-specific signatures in functional genomic studies": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-11",
+
+"Synthesis-View: visualization and interpretation of SNP association results for multi-cohort, multi-phenotype data and meta-analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-10",
+
+"A particle swarm optimization-based algorithm for finding gapped motifs": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-9",
+
+"Grammatical evolution decision trees for detecting gene-gene interactions": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-8",
+
+"Transcriptome bioinformatic analysis identifies potential therapeutic mechanism of pentylenetetrazole in down syndrome": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-7",
+
+"GeneWaltz\u2013A new method for reducing the false positives of gene finding": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-6",
+
+"ATHENA: A knowledge-based hybrid backpropagation-grammatical evolution neural network algorithm for discovering epistasis among quantitative trait Loci": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-5",
+
+"SICTIN: Rapid footprinting of massively parallel sequencing data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-4",
+
+"Applications and methods utilizing the Simple Semantic Web Architecture and Protocol (SSWAP) for bioinformatics resource discovery and disparate data and service integration": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-3",
+
+"Large scale analysis of positional effects of single-base mismatches on microarray gene expression data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-2",
+
+"A reference guide for tree analysis and visualization": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-3-1",
+
+"Improved Bevirimat resistance prediction by combination of structural and sequence-based classifiers": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-26",
+
+"Mining the diseasome": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-25",
+
+"An R package implementation of multifactor dimensionality reduction": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-24",
+
+"Hill-Climbing search and diversification within an evolutionary approach to protein structure prediction": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-23",
+
+"Detection of putative new mutacins by bioinformatic analysis using available web tools": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-22",
+
+"Evolving hard problems: Generating human genetics datasets with a complex etiology": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-21",
+
+"Taxon ordering in phylogenetic trees by means of evolutionary algorithms": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-20",
+
+"DA DA: Degree-Aware Algorithms for Network-Based Disease Gene Prioritization": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-19",
+
+"Discrete derivative: a data slicing algorithm for exploration of sharing biological networks between rheumatoid arthritis and coronary heart disease": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-18",
+
+"Comprehensive analysis of human microRNA target networks": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-17",
+
+"Interpol: An R package for preprocessing of protein sequences": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-16",
+
+"Detection of changes in gene regulatory patterns, elicited by perturbations of the Hsp90 molecular chaperone complex, by visualizing multiple experiments with an animation": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-15",
+
+"Mining beyond the exome": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-14",
+
+"Preprocessing differential methylation hybridization microarray data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-13",
+
+"A comparison of machine learning techniques for survival prediction in breast cancer": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-12",
+
+"The effects of linkage disequilibrium in large scale SNP datasets for MDR": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-11",
+
+"Using graph theory to analyze biological networks": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-10",
+
+"pGQL: A probabilistic graphical query language for gene expression time courses": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-9",
+
+"A comparison of genomic copy number calls by Partek Genomics Suite, Genotyping Console and Birdsuite algorithms to quantitative PCR": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-8",
+
+"Data mining and the evolution of biological complexity": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-7",
+
+"The spatial dimension in biological data mining": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-6",
+
+"Alignment of gene expression profiles from test samples against a reference database: New method for context-specific interpretation of microarray data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-5",
+
+"Rule based classifier for the analysis of gene-gene and gene-environment interactions in genetic association studies": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-4",
+
+"Biclustering of Gene Expression Data by Correlation-Based Scatter Search": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-3",
+
+"A Normalized Tree Index for identification of correlated clinical parameters in microarray experiments": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-2",
+
+"Blurring contact maps of thousands of proteins: what we can learn by reconstructing 3D structure": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-4-1",
+
+"Multivariate methods and software for association mapping in dose\u2010response genome\u2010wide association studies": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-21",
+
+"Application of a spatially-weighted Relief algorithm for ranking genetic predictors of disease": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-20",
+
+"Visualising associations between paired \u2018omics\u2019 data sets": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-19",
+
+"Mining SOM expression portraits: feature selection and integrating concepts of molecular function": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-18",
+
+"Molecular network analysis of human microRNA targetome: from cancers to Alzheimer\u2019s disease": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-17",
+
+"GAMETES: a fast, direct algorithm for generating pure, strict, epistatic models with random architectures": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-16",
+
+"Predicting the difficulty of pure, strict, epistatic models: metrics for simulated model selection": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-15",
+
+"Peer2ref: a peer-reviewer finding web tool that uses author disambiguation": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-14",
+
+"An automated framework for hypotheses generation using literature": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-13",
+
+"Finding biomarkers in non-model species: literature mining of transcription factors involved in bovine embryo development": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-12",
+
+"Murine colon proteome and characterization of the protein pathways": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-11",
+
+"Logic minimization and rule extraction for identification of functional sites in molecular sequences": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-10",
+
+"Gene ontology analysis of pairwise genetic associations in two genome-wide studies of sporadic ALS": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-9",
+
+"A comparison and evaluation of five biclustering algorithms by quantifying goodness of biclusters for gene expression data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-8",
+
+"\u2018MicroRNA Targets\u2019, a new AthaMap web-tool for genome-wide identification of miRNA targets in Arabidopsis thaliana": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-7",
+
+"How do alignment programs perform on sequencing data with varying qualities and from repetitive regions?": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-6",
+
+"Visually integrating and exploring high throughput Phenome-Wide Association Study (PheWAS) results using PheWAS-View": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-5",
+
+"Weighted multiple testing procedures for genomic studies": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-4",
+
+"Global tests of P-values for multifactor dimensionality reduction models in selection of optimal number of target genes": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-3",
+
+"A multilevel layout algorithm for visualizing physical and genetic interaction networks, with emphasis on their modular organization": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-2",
+
+"Caipirini: using gene sets to rank literature": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-1",
+
+"Genomic analyses with biofilter 2.0: knowledge driven filtering, annotation, and model development": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-25",
+
+"An association-adjusted consensus deleterious scheme to classify homozygous Mis-sense mutations for personal genome interpretation": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-24",
+
+"ATHENA: Identifying interactions between different levels of genomic data associated with cancer clinical outcomes using grammatical evolution neural network": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-23",
+
+"Big Data analysis on autopilot?": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-22",
+
+"Graph representation of high-dimensional alpha-helical membrane protein data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-21",
+
+"Structural updates of alignment of protein domains and consequences on evolutionary models of domain superfamilies": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-20",
+
+"No-boundary thinking in bioinformatics research": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-19",
+
+"Visualizing genomic information across chromosomes with PhenoGram": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-18",
+
+"Using random walks to identify cancer-associated modules in expression data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-17",
+
+"LVQ-SMOTE \u2013 Learning Vector Quantization based Synthetic Minority Over\u2013sampling Technique for biomedical data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-16",
+
+"gff2sequence, a new user friendly tool for the generation of genomic sequences": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-15",
+
+"The central role of biological data mining in connecting diverse disciplines": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-14",
+
+"Unraveling genomic variation from next generation sequencing data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-13",
+
+"The disconnect between classical biostatistics and the biological data mining community": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-12",
+
+"MicroRNA-mediated regulation of target genes in several brain regions is correlated to both microRNA-targeting-specific promoter methylation and differential microRNA expression": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-11",
+
+"The limits of p-values for biological data mining": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-10",
+
+"A robustness study of parametric and non-parametric tests in model-based multifactor dimensionality reduction for epistasis detection": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-9",
+
+"Prediction of Drosophila melanogaster gene function using Support Vector Machines": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-8",
+
+"Optimization and visualization of the edge weights in optimal assignment methods for virtual screening": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-7",
+
+"Using Bayesian networks to discover relations between genes, environment, and disease": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-6",
+
+"Genetic variants and their interactions in disease risk prediction \u2013 machine learning and network perspectives": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-5",
+
+"Multifactor dimensionality reduction reveals a three-locus epistatic interaction associated with susceptibility to pulmonary tuberculosis": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-4",
+
+"Identification of SNPs associated with variola virus virulence": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-3",
+
+"Identification of new biomarker candidates for glucocorticoid induced insulin resistance using literature mining": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-2",
+
+"Risk score modeling of multiple gene to gene interactions using aggregated-multifactor dimensionality reduction": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-1",
+
+"Linked vaccine adverse event data from VAERS for biomedical data analysis and longitudinal studies": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0036-y",
+
+"Combining functional genomics strategies identifies modular heterogeneity of breast cancer intrinsic subtypes": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-27",
+
+"Identifying genetic interactions associated with late-onset Alzheimer\u2019s disease": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0035-z",
+
+"Synthetic learning machines": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0028-y",
+
+"Integrative genomics and transcriptomics analysis of human embryonic and induced pluripotent stem cells": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0032-2",
+
+"Erratum to: An iteration normalization and test method for differential expression analysis of RNA-seq data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0030-4",
+
+"O brave new world that has such machines in it": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-26",
+
+"Updating microbial genomic sequences: improving accuracy & innovation": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-25",
+
+"PGxClean: a quality control GUI for the Affymetrix DMET chip and other candidate gene studies with non-biallelic alleles": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-24",
+
+"Accurate prediction of major histocompatibility complex class II epitopes by sparse representation via \u2113\n1-minimization": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-23",
+
+"Applications of the MapReduce programming framework to clinical big data analysis: current landscape and future trends": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-22",
+
+"CardioGxE, a catalog of gene-environment interactions for cardiometabolic traits": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-21",
+
+"Knowledge-driven genomic interactions: an application in ovarian cancer": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-20",
+
+"The genetic interacting landscape of 63 candidate genes in Major Depressive Disorder: an explorative study": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-19",
+
+"ExpressionData - A public resource of high quality curated datasets representing gene expression across anatomy, development and experimental conditions": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-18",
+
+"Computational genetics analysis of grey matter density in Alzheimer\u2019s disease": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-17",
+
+"Hybrid coexpression link similarity graph clustering for mining biological modules from multiple gene expression datasets": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-16",
+
+"An iteration normalization and test method for differential expression analysis of RNA-seq data": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-15",
+
+"A simple structure-based model for the prediction of HIV-1 co-receptor tropism": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-14",
+
+"First complex, then simple": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-13",
+
+"Innovation is often unnerving: the door into summer": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-12",
+
+"Hypothesis exploration with visualization of variance": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-11",
+
+"Diverse convergent evidence in the genetic analysis of complex disease: coordinating omic, informatic, and experimental evidence to better identify and validate risk factors": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-10",
+
+"An adaptive permutation approach for genome-wide association study: evaluation and recommendations for use": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-9",
+
+"A classification and characterization of two-locus, pure, strict, epistatic models for simulation and detection": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-8",
+
+"Semi-supervised consensus clustering for gene expression data analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-7",
+
+"Mycoplasma contamination in the 1000 Genomes Project": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-3",
+
+"Investigating the relationship between mitochondrial genetic variation and cardiovascular-related traits to develop a framework for mitochondrial phenome-wide association studies": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-6",
+
+"Functional genomics annotation of a statistical epistasis network associated with bladder cancer susceptibility": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-5",
+
+"Supervised DNA Barcodes species classification: analysis, comparisons and results": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-4",
+
+"Risk estimation using probability machines": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-2",
+
+"The multiscale backbone of the human phenotype network based on biological pathways": "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-7-1",
+
+"Characterizing gene-gene interactions in a statistical epistasis network of twelve candidate genes for obesity": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0077-x",
+
+"Non-coding yet non-trivial: a review on the computational genomics of lincRNAs": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0075-z",
+
+"Functional dyadicity and heterophilicity of gene-gene interactions in statistical epistasis networks": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0062-4",
+
+"A significant risk locus on 19q13 for bipolar disorder identified using a combined genome-wide linkage and copy number variation analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0076-y",
+
+"Identifying gene-gene interactions that are highly associated with Body Mass Index using Quantitative Multifactor Dimensionality Reduction (QMDR)": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0074-0",
+
+"Network construction and structure detection with metagenomic count data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0072-2",
+
+"LAF: Logic Alignment Free and its application to bacterial genomes classification": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0073-1",
+
+"A novel biclustering algorithm of binary microarray data: BiBinCons and BiBinAlter": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0070-4",
+
+"Genome-wide predictors of NF-\u03baB recruitment and transcriptional activity": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0071-3",
+
+"gammaMAXT: a fast multiple-testing correction algorithm": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0069-x",
+
+"Towards a phenome-wide catalog of human clinical traits impacted by genetic ancestry": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0068-y",
+
+"Next generation informatics for big data in precision medicine era": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0064-2",
+
+"On predicting regulatory genes by analysis of functional networks in C. elegans": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0066-0",
+
+"Integration and comparison of different genomic data for outcome prediction in cancer": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0065-1",
+
+"BioDB extractor: customized data extraction system for commonly used bioinformatics databases": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0067-z",
+
+"DAPPER: a data-mining resource for protein-protein interactions": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0063-3",
+
+"Prediction of relevant biomedical documents: a human microbiome case study": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0061-5",
+
+"Supervised learning methods in modeling of CD4+ T cell heterogeneity": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0060-6",
+
+"Network analysis reveals stage-specific changes in zebrafish embryo development using time course whole transcriptome profiling and prior biological knowledge": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0057-1",
+
+"Principal component gene set enrichment (PCGSE)": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0059-z",
+
+"Informative gene network for chemotherapy-induced peripheral neuropathy": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0058-0",
+
+"Machine learning classifiers provide insight into the relationship between microbial communities and bacterial vaginosis": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0055-3",
+
+"The role of visualization and 3-D printing in biological data mining": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0056-2",
+
+"Interaction networks for identifying coupled molecular processes in microbial communities": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0054-4",
+
+"Uncovering correlated variability in epigenomic datasets using the Karhunen-Loeve transform": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0051-7",
+
+"TaxKB: a knowledge base for new taxane-related drug discovery": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0053-5",
+
+"DNA microarray integromics analysis platform": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0052-6",
+
+"Testing multiple hypotheses through IMP weighted FDR based on a genetic functional network with application to a new zebrafish transcriptome study": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0050-8",
+
+"Lumping versus splitting: the need for biological data mining in precision medicine": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0049-1",
+
+"The effects of electronic medical record phenotyping details on genetic association studies: HDL-C as a case study": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0048-2",
+
+"Predicting linear B-cell epitopes using amino acid anchoring pair composition": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0047-3",
+
+"Mining causal relationships among clinical variables for cancer diagnosis based on Bayesian analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0046-4",
+
+"Mining severe drug-drug interaction adverse events using Semantic Web technologies: a case study": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0044-6",
+
+"A bibliometric analysis on tobacco regulation investigators": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0043-7",
+
+"Bacterial rose garden for metagenomic SNP-based phylogeny visualization": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0045-5",
+
+"Cancer based pharmacogenomics network supported with scientific evidences: from the view of drug repurposing": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0042-8",
+
+"Visualisation of quadratic discriminant analysis and its application in exploration of microbial interactions": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0041-9",
+
+"Big data - a 21st century science Maginot Line? No-boundary thinking: shifting from the big data paradigm": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0037-5",
+
+"An investigation of gene-gene interactions in dose-response studies with Bayesian nonparametrics": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0039-3",
+
+"Differential co-expression network centrality and machine learning feature selection for identifying susceptibility hubs in networks with scale-free structure": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0040-x",
+
+"Mining the entire Protein DataBank for frequent spatially cohesive amino acid patterns": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0038-4",
+
+"Prediction of protein solvent accessibility using PSO-SVR with multiple sequence-derived features and weighted sliding window scheme": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0031-3",
+
+"Microarray enriched gene rank": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0033-1",
+
+"Performance of genetic programming optimised Bowtie2 on genome comparison and analytic testing (GCAT) benchmarks": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0034-0",
+
+"Motif mining based on network space compression": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-014-0029-x",
+
+"The Interaction Network Ontology-supported modeling and mining of complex interactions represented with multiple keywords in biomedical literature": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0118-0",
+
+"Complex systems analysis of bladder cancer susceptibility reveals a role for decarboxylase activity in two genome-wide association studies": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0119-z",
+
+"matK-QR classifier: a patterns based approach for plant species identification": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0120-6",
+
+"MISSEL: a method to identify a large number of small species-specific genomic subsequences and its application to viruses classification": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0116-2",
+
+"Adaptive swarm cluster-based dynamic multi-objective synthetic minority oversampling technique algorithm for tackling binary imbalanced datasets in biomedical data classification": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0117-1",
+
+"Compensation of feature selection biases accompanied with improved predictive performance for binary classification by using a novel ensemble feature selection approach": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0114-4",
+
+"Considerations for higher efficiency and productivity in research activities": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0115-3",
+
+"On the evaluation of the fidelity of supervised classifiers in the prediction of chimeric RNAs": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0112-6",
+
+"Developing a modular architecture for creation of rule-based clinical diagnostic criteria": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0113-5",
+
+"Low-mass-ion discriminant equation (LOME) for ovarian cancer screening": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0111-7",
+
+"FEDRR: fast, exhaustive detection of redundant hierarchical relations for quality improvement of large biomedical ontologies": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0110-8",
+
+"ProtNN: fast and accurate protein 3D-structure classification in structural and topological space": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0108-2",
+
+"The tip of the iceberg: challenges of accessing hospital electronic health record data for biological data mining": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0109-1",
+
+"Functional networks inference from rule-based machine learning models": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0106-4",
+
+"A biologically informed method for detecting rare variant associations": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0107-3",
+
+"msBiodat analysis tool, big data analysis for high-throughput experiments": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0104-6",
+
+"Mango: combining and analyzing heterogeneous biological networks": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0105-5",
+
+"Joint analysis of multiple high-dimensional data types using sparse matrix approximations of rank-1 with applications to ovarian and liver cancer": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0103-7",
+
+"Representing and querying disease networks using graph databases": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0102-8",
+
+"Principal component analysis based unsupervised feature extraction applied to budding yeast temporally periodic gene expression": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0101-9",
+
+"Data integration to prioritize drugs using genomics and curated data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0097-1",
+
+"SePIA: RNA and small RNA sequence processing, integration, and analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0099-z",
+
+"Machine learning algorithms for mode-of-action classification in toxicity assessment": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0098-0",
+
+"Identification of genetic interaction networks via an evolutionary algorithm evolved Bayesian network": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0094-4",
+
+"Building a glaucoma interaction network using a text mining approach": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0096-2",
+
+"Visual programming for next-generation sequencing data analytics": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0095-3",
+
+"The golden era of biomedical informatics has begun": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0092-6",
+
+"Detecting gene-gene interactions using a permutation-based random forest method": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0093-5",
+
+"Distinguishing highly similar gene isoforms with a clustering-based bioinformatics analysis of PacBio single-molecule long reads": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0090-8",
+
+"Evolutionary triangulation: informing genetic association studies with evolutionary evidence": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0091-7",
+
+"Robust normalization protocols for multiplexed fluorescence bioimage analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0088-2",
+
+"Exploiting HIV-1 protease and reverse transcriptase cross-resistance information for improved drug resistance prediction by means of multi-label classification": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0089-1",
+
+"Erratum to: Evolving hard problems: generating human genetics datasets with a complex etiology": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0085-5",
+
+"Erratum to: BioDB extractor: customized data extraction system for commonly used bioinformatics databases": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0081-9",
+
+"r2VIM: A new variable selection method for random forests in genome-wide association studies": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0087-3",
+
+"SequenceCEROSENE: a computational method and web server to visualize spatial residue neighborhoods at the sequence level": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0083-7",
+
+"The prediction accuracy of dynamic mixed-effects models in clustered data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0084-6",
+
+"Prediction of donor splice sites using random forest with a new sequence encoding approach": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0086-4",
+
+"Network-based analysis of genetic variants associated with hippocampal volume in Alzheimer\u2019s disease: a study of ADNI cohorts": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0082-8",
+
+"Iteratively refining breast cancer intrinsic subtypes in the METABRIC dataset": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0078-9",
+
+"A call for biological data mining approaches in epidemiology": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-015-0079-8",
+
+"Scalable non-negative matrix tri-factorization": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0160-6",
+
+"An automated pipeline for bouton, spine, and synapse detection of in vivo two-photon images": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0161-5",
+
+"Sparse generalized linear model with L\n0 approximation for feature selection and prediction with big omics data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0159-z",
+
+"TSPmap, a tool making use of traveling salesperson problem solvers in the efficient and accurate construction of high-density genetic linkage maps": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0158-0",
+
+"Cluster ensemble based on Random Forests for genetic data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0156-2",
+
+"PMLB: a large benchmark suite for machine learning evaluation and comparison": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0154-4",
+
+"Ten quick tips for machine learning in computational biology": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3",
+
+"Artificial intelligence: more human with human": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0157-1",
+
+"OCDD: an obesity and co-morbid disease database": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0153-5",
+
+"Metrics to estimate differential co-expression networks": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0152-6",
+
+"Methods for enhancing the reproducibility of biomedical research findings using electronic health records": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0151-7",
+
+"RNA-sequence data normalization through in silico prediction of reference genes: the bacterial response to DNA damage as case study": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0150-8",
+
+"Identifying time-delayed gene regulatory networks via an evolvable hierarchical recurrent neural network": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0146-4",
+
+"Genetically improved BarraCUDA": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0149-1",
+
+"nRC: non-coding RNA Classifier based on structural features": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0148-2",
+
+"Evolutionary computation: the next major transition of artificial intelligence?": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0147-3",
+
+"Discovery and replication of SNP-SNP interactions for quantitative lipid traits in over 60,000 individuals": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0145-5",
+
+"The Dark Proteome Database": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0144-6",
+
+"epiACO - a method for identifying epistasis based on ant Colony optimization algorithm": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0143-7",
+
+"Arete \u2013 candidate gene prioritization using biological network topology with additional evidence types": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0141-9",
+
+"EFS: an ensemble feature selection tool implemented as R-package and web-application": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0142-8",
+
+"Computational dynamic approaches for temporal omics data with applications to systems medicine": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0140-x",
+
+"Grid-based stochastic search for hierarchical gene-gene interactions in population-based genetic studies of common human diseases": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0139-3",
+
+"Gene Set Enrichment Analyses: lessons learned from the heart failure phenotype": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0137-5",
+
+"Vinasse fertirrigation alters soil resistome dynamics: an analysis based on metagenomic profiles": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0138-4",
+
+"The optimal crowd learning machine": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0135-7",
+
+"Study of Meta-analysis strategies for network inference using information-theoretic approaches": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0136-6",
+
+"Feature analysis for classification of trace fluorescent labeled protein crystallization images": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0133-9",
+
+"Multi-class computational evolution: development, benchmark evaluation and application to RNA-Seq biomarker discovery": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0134-8",
+
+"Discovering feature relevancy and dependency by kernel-guided probabilistic model-building evolution": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0131-y",
+
+"Rapid development of entity-based data models for bioinformatics with persistence object-oriented design and structured interfaces": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0130-z",
+
+"Label-free data standardization for clinical metabolomics": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0132-x",
+
+"Variant Set Enrichment: an R package to identify disease-associated functional genomic regions": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0129-5",
+
+"Erratum to: Meta-analytic support vector machine for integrating multiple omics data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0128-6",
+
+"Semantics-based plausible reasoning to extend the knowledge coverage of medical knowledge bases for improved clinical decision support": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0123-y",
+
+"Elevated transcriptional levels of aldolase A (ALDOA) associates with cell cycle-related genes in patients with NSCLC and several solid tumors": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0122-4",
+
+"Gene set analysis controlling for length bias in RNA-seq experiments": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0125-9",
+
+"A feature selection method based on multiple kernel learning with expression profiles of different types": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0124-x",
+
+"Mining pathway associations for disease-related pathway activity analysis based on gene expression and methylation data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0127-7",
+
+"Meta-analytic support vector machine for integrating multiple omics data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0126-8",
+
+"Accurate prediction of protein relative solvent accessibility using a balanced model": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-016-0121-5",
+
+"Unified Cox model based multifactor dimensionality reduction method for gene-gene interaction analysis of the survival phenotype": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0189-1",
+
+"Distributed retrieval engine for the development of cloud-deployed biological databases": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0185-5",
+
+"Knomics-Biota - a system for exploratory analysis of human gut microbiota data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0187-3",
+
+"A fast forward 3D connection algorithm for mitochondria and synapse segmentations from serial EM images": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0183-7",
+
+"Transition-transversion encoding and genetic relationship metric in ReliefF feature selection improves pathway enrichment in GWAS": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0186-4",
+
+"Combining DNA methylation and RNA sequencing data of cancer for supervised knowledge extraction": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0184-6",
+
+"To know the objective is not (necessarily) to know the objective function": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0182-8",
+
+"Grasping frequent subgraph mining for bioinformatics applications": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0181-9",
+
+"Functional relevance for central cornea thickness-associated genetic variants by using integrative analyses": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0179-3",
+
+"Evolutionary methods for variable selection in the epidemiological modeling of cardiovascular diseases": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0180-x",
+
+"Protein folding prediction in the HP model using ions motion optimization with a greedy algorithm": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0176-6",
+
+"A multi-objective gene clustering algorithm guided by apriori biological knowledge with intensification and diversification strategies": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0178-4",
+
+"TRIQ: a new method to evaluate triclusters": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0177-5",
+
+"PathCORE-T: identifying and visualizing globally co-occurring pathways in large transcriptomic compendia": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0175-7",
+
+"Integrative analysis of gene expression and methylation data for breast cancer cell lines": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0174-8",
+
+"Measuring associations between the microbiota and repeated measures of continuous clinical variables using a lasso-penalized generalized linear mixed model": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0173-9",
+
+"Soft document clustering using a novel graph covering approach": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0172-x",
+
+"Characterizing the effects of missing data and evaluating imputation methods for chemical prioritization applications using ToxPi": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0169-5",
+
+"Feature selection for gene prediction in metagenomic fragments": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0170-z",
+
+"Gene set analysis methods: a systematic comparison": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0166-8",
+
+"Connecting genetics and gene expression data for target prioritisation and drug repositioning": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0171-y",
+
+"Improving machine learning reproducibility in genetic association studies with proportional instance cross validation (PICV)": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0167-7",
+
+"Collective feature selection to identify crucial epistatic variants": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0168-6",
+
+"Pairwise gene GO-based measures for biclustering of high-dimensional expression data": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0165-9",
+
+"A novel joint analysis framework improves identification of differentially expressed genes in cross disease transcriptomic analysis": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0163-y",
+
+"Investigating the parameter space of evolutionary algorithms": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0164-x",
+
+"Identification of influential observations in high-dimensional cancer survival data through the rank product test": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0162-z",
+
+"Correction to: Investigating the parameter space of evolutionary algorithms": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0210-3",
+
+"SEQdata-BEACON: a comprehensive database of sequencing performance and statistical tools for performance evaluation and yield simulation in BGISEQ-500": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0209-9",
+
+"Screening for mouse genes lost in mammals with long lifespans": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0208-x",
+
+"Predicting metabolite-disease associations based on KATZ model": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0206-z",
+
+"Integrative analysis of genetic and epigenetic profiling of lung squamous cell carcinoma (LSCC) patients to identify smoking level relevant biomarkers": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0207-y",
+
+"RNSCLC-PRSP software to predict the prognostic risk and survival in patients with resected T1-3N0\u20132\u2009M0 non-small cell lung cancer": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0205-0",
+
+"ViSEAGO: a Bioconductor package for clustering biological functions using Gene Ontology and semantic similarity": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0204-1",
+
+"Disease associations depend on visit type: results from a visit-wide association study": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0203-2",
+
+"Exploration of a diversity of computational and statistical measures of association for genome-wide genetic studies": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0201-4",
+
+"On the utilization of deep and ensemble learning to detect milk adulteration": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0200-5",
+
+"ClickGene: an open cloud-based platform for big pan-cancer data genome-wide association study, visualization and exploration": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0202-3",
+
+"Confounding of linkage disequilibrium patterns in large scale DNA based gene-gene interaction studies": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0199-7",
+
+"Innovative strategies for annotating the \u201crelationSNP\u201d between variants and molecular phenotypes": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0197-9",
+
+"Within-sample co-methylation patterns in normal tissues": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0198-8",
+
+"Characterizing human genomic coevolution in locus-gene regulatory interactions": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0195-y",
+
+"Encodings and models for antimicrobial peptide classification for multi-resistant pathogens": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0196-x",
+
+"Testing the assumptions of parametric linear models: the need for biological data mining in disciplines such as human genetics": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0194-z",
+
+"Approximate kernel reconstruction for time-varying networks": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0192-1",
+
+"A biplot correlation range for group-wise metabolite selection in mass spectrometry": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0191-2",
+
+"Predicting opioid dependence from electronic health records with machine learning": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0193-0",
+
+"Use case driven evaluation of open databases for pediatric cancer research": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0190-8",
+
+"Application of an interpretable classification model on Early Folding Residues during protein folding": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-018-0188-2",
+
+"Ideas for how informaticians can get involved with COVID-19 research": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-020-00213-y",
+
+"A network pharmacology-based study on Alzheimer disease prevention and treatment of Qiong Yu Gao": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-020-00212-z",
+
+"Deep learning methods improve linear B-cell epitope prediction": "https://biodatamining.biomedcentral.com/articles/10.1186/s13040-020-00211-0"
+}
