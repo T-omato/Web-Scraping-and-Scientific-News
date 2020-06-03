@@ -66,4 +66,16 @@ Each journal's spider's bugs will be documented here:
    
 **Journal of Applied Statistics**
 
-   Journal of Applied Statistics. Scrapes perfectly all titles and there respective DOIs.
+   Journal of Applied Statistics. Scrapes perfectly all titles and their respective DOIs.
+
+**BioData Mining**
+
+   BioData Mining informatics Journal. Scrapes perfectly all titles and their respective links
+   
+**Icarus**
+
+   Icarus, the Solar System Studies Journal. Scrapes perfectly all titles and their respective links.
+   
+**Journal of Soil and Water Conservation**
+
+   JSWC, Scrapes perfectly all titles and their respective links.
